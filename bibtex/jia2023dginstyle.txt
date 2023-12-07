@@ -1,0 +1,6 @@
+@article{jia2023dginstyle,
+  author    = {Yuru Jia, Lukas Hoyer, Shengyu Huang, Tianfu Wang, Luc Van Gool, Konrad Schindler, Anton Obukhov},
+  title     = {DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control},
+  journal   = {arXiv preprint},
+  year      = {2023},
+}
