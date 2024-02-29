@@ -1,6 +1,6 @@
-@article{ke2023marigold,
+@inproceedings{ke2023marigold,
   author    = {Ke, Bingxin and Obukhov, Anton and Huang, Shengyu and Metzger, Nando and Daudt, Rodrigo Caye and Schindler, Konrad},
   title     = {Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation},
-  journal   = {arXiv preprint},
-  year      = {2023},
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2024},
 }
