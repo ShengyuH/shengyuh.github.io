@@ -1,0 +1,6 @@
+@article{zhu2025restyle3d,
+  title={ReStyle3D: Scene-level Appearance Transfer with Semantic Correspondences},
+  author={Zhu, Liyuan and Cai, Shengqu and Huang, Shengyu and Wetzstein, Gordon and Khosravan, Naji and Armeni, Iro},
+  journal={SIGGRAPH},
+  year={2025}
+}
