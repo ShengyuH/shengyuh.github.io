@@ -1,0 +1,8 @@
+@misc{ke2025marigold,
+  title={Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis},
+  author={Bingxin Ke and Kevin Qu and Tianfu Wang and Nando Metzger and Shengyu Huang and Bo Li and Anton Obukhov and Konrad Schindler},
+  year={2025},
+  eprint={2505.09358},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
