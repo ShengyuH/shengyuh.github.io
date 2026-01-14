@@ -1,0 +1,6 @@
+@article{borreda2025radargen,
+  title={RadarGen: Automotive Radar Point Cloud Generation from Cameras},
+  author={Borreda, Tomer and Ding, Fangqiang and Fidler, Sanja and Huang, Shengyu and Litany, Or},
+  journal={arXiv preprint arXiv:2512.17897},
+  year={2025}
+}
