@@ -1,0 +1,8 @@
+@misc{ke2026capa,
+  title={Depth Completion as Parameter-Efficient Test-Time Adaptation},
+  author={Ke, Bingxin and Zhou, Qunjie and Huang, Jiahui and Ren, Xuanchi and Shen, Tianchang and Schindler, Konrad and Leal-Taixé, Laura and Huang, Shengyu},
+  year={2026},
+  eprint={2602.14751},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
