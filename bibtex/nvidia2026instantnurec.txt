@@ -1,0 +1,6 @@
+@techreport{nvidia2026instantnurec,
+  title={Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation},
+  author={{NVIDIA}},
+  institution={NVIDIA},
+  year={2026}
+}
