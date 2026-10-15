@@ -1,0 +1,8 @@
+@misc{che2026lidarverse,
+  title         = {Into the LidarVerse: A Real-Time Unified LiDAR World Model Across Tasks and Sensors},
+  author        = {Che, Henry and Ren, Xuanchi and Fidler, Sanja and Wang, Shenlong and Leal-Taixé, Laura and Huang, Shengyu},
+  year          = {2026},
+  eprint        = {2610.19201},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV}
+}
