@@ -1,0 +1,6 @@
+@misc{nvidia2026interactiveworldsimulation,
+  title = {Interactive World Simulation with Cosmos for Physical AI},
+  author = {{NVIDIA}},
+  year = {2026},
+  url = {https://research.nvidia.com/labs/cosmos-lab/cosmos-simulation/technical-report.pdf}
+}

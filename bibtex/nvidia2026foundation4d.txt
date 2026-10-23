@@ -1,0 +1,9 @@
+@misc{nvidia2026foundation4d,
+  title         = {Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles},
+  author        = {{NVIDIA} and Agostinho, Sérgio and Apodaca, Maximilian and Attia, Emmanuel and Braso, Guillem and Dong, George and Fedorov, Ilya and Fenzi, Michele and Huang, Gang and Huang, Jiahui and Huang, Shengyu and Ke, Bingxin and Leal-Taixé, Laura and Lee, Kuan-Ting and Liu, Mingxuan and Liu, Tian and Meinhardt, Tim and Ošep, Aljoša and Rai, Naveen Kumar and Ren, Kefei and Saltori, Cristiano and Wu, Keqiang and Xu, Ning and Xue, Fei and Yu, Jin-Bey and Zhang, Lei and Zhou, Qunjie},
+  year          = {2026},
+  eprint        = {2610.30340},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2610.30340}
+}
