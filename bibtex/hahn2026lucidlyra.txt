@@ -1,0 +1,9 @@
+@misc{hahn2026lucidlyra,
+  title         = {{LucidLyra}: Feed-Forward Generative {3D} Scene Reconstruction and Joint Understanding via Multi-Task Distillation},
+  author        = {Oliver Hahn and Rodrigo Marcuzzi and Sangeetha Grama Srinivasan and Alessandro Burzio and Sherwin Bahmani and Jiahui Huang and Stefan Roth and Shengyu Huang and Qunjie Zhou and Laura Leal-Taix{\'e}},
+  year          = {2026},
+  eprint        = {2610.40495},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2610.40495}
+}
