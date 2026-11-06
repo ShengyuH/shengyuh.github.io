@@ -1,0 +1,9 @@
+@misc{gao2026metrictrail,
+    title={MetricTrail: Revisiting the Power of Metric Depth and Local Optimization for Long-Sequence Streaming 3D Reconstruction},
+    author={Gao, Jingnan and Huang, Jiahui and Elflein, Sven and Zheng, Jianhao and Ke, Bingxin and Yang, Xiaokang and Yan, Yichao and Leal-Taix{\'e}, Laura and Zhou, Qunjie and Ren, Jiawei and Huang, Shengyu},
+    year={2026},
+    eprint={2611.07555},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV},
+    url={https://arxiv.org/abs/2611.07555}
+}
